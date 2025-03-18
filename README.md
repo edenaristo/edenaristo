@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Eden 👋
 
-<!--
-**edenaristo/edenaristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I am a final-year CS student at the University of Melbourne. Combining my CS skills, I also have a strong passion for finance, especially in the field of machine learning, quantitative trading, and data-driven investments. In addition, I gained extensive leadership experience while managing large-scale projects within a large organisation. I am eager to contribute to innovative projects in the tech and finance sectors, or both!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on **A student organizer web Application for WEHI**
+- 🌱 I’m currently learning **Machine learning**
+- 💬 Ask me about **[topics you enjoy discussing]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+- 📫 LinkedIn: **linkedin.com/in/eden-aristo-tingkir-a2a487220/**
+
+
+
+Thanks for stopping by! 😊
