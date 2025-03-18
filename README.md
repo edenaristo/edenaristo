@@ -7,8 +7,4 @@ Hello there! I am a final-year CS student at the University of Melbourne. Combin
 - 🌱 I’m currently learning **Flask and Machine learning in Python**
 
 ## Let's Connect
-- 📫 LinkedIn: **linkedin.com/in/eden-aristo-tingkir-a2a487220/**
-
-
-
-Thanks for stopping by! 😊
+- 📫 [Github](https://www.linkedin.com/in/eden-aristo-tingkir-a2a487220/)
