@@ -4,8 +4,7 @@ Hello there! I am a final-year CS student at the University of Melbourne. Combin
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **A student organizer web Application for WEHI**
-- 🌱 I’m currently learning **Machine learning**
-- 💬 Ask me about **[topics you enjoy discussing]**
+- 🌱 I’m currently learning **Flask and Machine learning in Python**
 
 ## Let's Connect
 - 📫 LinkedIn: **linkedin.com/in/eden-aristo-tingkir-a2a487220/**
