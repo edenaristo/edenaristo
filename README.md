@@ -1,10 +1,27 @@
-## Hi, I'm Eden 👋
+# Hi, I'm Eden 👋
 
-Hello there! I am a final-year CS student at the University of Melbourne. Combining my CS skills, I also have a strong passion for finance, especially in the field of machine learning, quantitative trading, and data-driven investments. In addition, I gained extensive leadership experience while managing large-scale projects within a large organisation. I am eager to contribute to innovative projects in the tech and finance sectors, or both!
+I'm a software developer and quantitative trader building trading bots, market models, and automated data systems.
 
-## 🚀 About Me
-- 🔭 I’m currently working on **A student organizer web Application for WEHI**
-- 🌱 I’m currently learning **Flask and Machine learning in Python**
+I actively trade on Polymarket using bots I built myself, and my current strategies are profitable at around **2% per day** though with very limited capacity (sadly).
 
-## Let's Connect
-- 📫 [LinkedIn](https://www.linkedin.com/in/eden-aristo-tingkir-a2a487220/)
+## What I worked on 📈
+
+- Prediction market algorithmic trading
+- Price Modelling
+- On chain data analysis through The Graph.
+
+
+## Algorithms I've built 🤖
+
+- Copy-trading bots using wallet analysis
+- Market-making bots
+- Statistical options pricing models + volatility estimator + arbitrage
+- Poisson simulation and Monte Carlo Simulations
+
+## Tech stack 🛠️
+
+Python · Pandas · NumPy · Matplotlib · APIs · PostgreSQL · React · FastAPI · The Graph · Polymarket API
+
+## Let's connect 🌱
+
+[LinkedIn](https://www.linkedin.com/in/edenaristo)
