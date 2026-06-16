@@ -4,16 +4,9 @@ I'm a software developer and quantitative trader building trading bots, market m
 
 I actively trade on Polymarket using bots I built myself, and my current strategies are profitable at around **2% per day** though with very limited capacity (sadly).
 
-## What I worked on 📈
-
-- Prediction market algorithmic trading
-- Price Modelling
-- On chain data analysis through The Graph.
-
-
 ## Algorithms I've built 🤖
 
-- Copy-trading bots using wallet analysis
+- Copy-trading bots using on chain blockchain wallet analysis
 - Market-making bots
 - Statistical options pricing models + volatility estimator + arbitrage
 - Poisson simulation and Monte Carlo Simulations
